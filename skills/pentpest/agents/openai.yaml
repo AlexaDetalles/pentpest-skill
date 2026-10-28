@@ -1,0 +1,4 @@
+interface:
+  display_name: "PENTPEST"
+  short_description: "Auditoría web autorizada, revisión de código y validación reproducible."
+  default_prompt: "Usa $pentpest para completar la tarea y verificar el resultado."
