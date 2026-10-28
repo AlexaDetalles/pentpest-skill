@@ -1,0 +1,10 @@
+{
+  "name": "pentpest",
+  "version": "1.0.0",
+  "description": "Auditoría web autorizada, revisión de código y validación reproducible.",
+  "author": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pentpest-skills",
+  "owner": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "plugins": [
+    {
+      "name": "pentpest",
+      "source": "./",
+      "description": "Auditoría web autorizada, revisión de código y validación reproducible."
+    }
+  ]
+}
